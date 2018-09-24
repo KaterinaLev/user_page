@@ -1,0 +1,70 @@
+body{
+    background-color: #637389;
+    margin: 0px;
+    padding: 0px;
+    color: grey;
+}
+.reg_form{
+    padding: 5px;
+    margin: 50px auto;
+    width: 405px;
+    background-color: #f2f3f7;
+}
+.reg_header{
+    padding-top:30px;
+    width: 135px;
+}
+.line{
+    width: 90px;
+    background-color: gray;
+    height: 1px;
+    float: right;
+}
+.left-lime{
+    float: left;
+}
+.main_text{
+    padding-right: 5px;
+    text-align: center;
+    font-family:Verdana;
+    font-size: 35px;
+}
+.about{
+    text-align: center;
+    font-size: 15px;
+}
+.middle{
+    margin: 5px 35px;
+}
+input{
+    height: 30px;
+    margin-bottom: 20px;
+    padding: 5px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.rInput{
+    float: right;
+    width: 45%;
+}
+.lInput{
+    width: 45%;
+}
+.cInput{
+    width: 100%;
+}
+.knopka{
+    display: block;
+    width:75%;
+    background-color: #51a951;
+    font-size: 15px;
+    border: 1px solid gray;
+    color: white;
+    font-weight: bold;
+    padding: 15px;
+    margin: 5px auto;
+}
+#check_phone{
+    width: 100%;
+
+}
