@@ -1,0 +1,26 @@
+body{
+    height:100%;
+}
+#main_banner{
+    height: 40vh;
+}
+
+#home{
+height: 95vh;
+}
+
+#block{
+    height: 200px;
+}
+.bg {
+    /* The image used */
+    background-image: url("katja_and_dog.jpg");
+
+    /* Full height */
+    height: 94vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
